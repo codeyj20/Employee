@@ -3,11 +3,11 @@ Create a class called Employee that includes three instance variables—a first 
 
 # Sample Output
 
-Enter First Name: Jane
-Enter Last Name: Goodall
-Enter Salary: 4500
+Enter First Name: Jane <br/>
+Enter Last Name: Goodall <br/>
+Enter Salary: 4500 <br/>
 
 
-Name: Jane Goodall
-Salary: $4500.00
-Salary w/ raise: $4950.00
+Name: Jane Goodall <br/>
+Salary: $4500.00 <br/>
+Salary w/ raise: $4950.00 <br/>
